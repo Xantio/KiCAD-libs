@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX19506
+D Dual-Channel, 8-Bit, 100Msps ADC
+F https://datasheets.maximintegrated.com/en/ds/MAX19506.pdf
+$ENDCMP
+#
+#End Doc Library
